@@ -27,6 +27,7 @@ https://www.autozone.com/loan-a-tools/loaner-pitman-arm-puller/p/oemtools-heavy-
 Pitman Arm Puller for Medium and Heavy Trucks
 
 Supply:
+- 61.24 https://www.zoro.com/bosch-pitman-arm-puller-fro-medium-and-heavy-duty-trucks-7310a/i/G601059312/
 - 85.08 https://www.toolsource.com/pullers-and-pushers-c-194_621_623/pitman-arm-puller-f-medium-heavy-trucks-otc7310-p-61965.html
 
 # Blacklist
