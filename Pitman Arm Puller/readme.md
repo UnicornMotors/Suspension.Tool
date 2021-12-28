@@ -13,6 +13,9 @@ https://www.otctools.com/products/super-duty-pitman-arm-puller
 
 Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/mechanics-tools/pullers/pitman-arm-pullers/692e9db8fec4/otc-pitman-arm-puller/otc0/6497
 
+## OEM Tools 57170
+https://www.autozone.com/loan-a-tools/loaner-pitman-arm-puller/p/oemtools-heavy-duty-pitman-arm-puller/209523_0_0
+
 # Blacklist
 > i tried to use it on my 1996 f 250 4/4 it's real wide the tabs that go under the pit-men arm just grab the edge so i broke one of the tabs off it's better to go to checker and rent one for free it was twenty dollars when you return it you get your money back or you can keep it
 By r cross on July 6, 2014
