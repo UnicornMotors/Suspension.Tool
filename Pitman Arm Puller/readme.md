@@ -16,6 +16,7 @@ https://www.otctools.com/products/super-duty-pitman-arm-puller
 
 Supply:
 - 80.15 https://www.tooldiscounter.com/product/otc-super-duty-pitman-arm-puller-otc6497
+- 81.87 https://www.centurytool.net/6497_OTC_Super_Duty_Pitman_Arm_Puller_p/otc6497.htm
 - 136.80 https://www.amazon.com/dp/B0014DDIJC
 - Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/mechanics-tools/pullers/pitman-arm-pullers/692e9db8fec4/otc-pitman-arm-puller/otc0/6497
 
