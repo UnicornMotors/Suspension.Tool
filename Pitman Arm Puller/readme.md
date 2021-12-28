@@ -1,5 +1,7 @@
 # Discussion
-https://www.ford-trucks.com/forums/159227-cant-find-a-big-enough-pitman-arm-puller.html
+F-250
+https://www.ford-trucks.com/forums/159227-cant-find-a-big-enough-pitman-arm-puller.html  
+https://www.ford-trucks.com/forums/995700-pitman-arm-removal-on-78f250-4x4.html
 
 # Jaw Spread: 3-1/4"
 ## OTC tools 6497
