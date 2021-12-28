@@ -7,20 +7,27 @@ F-250 https://www.google.com/search?q=Pitman+arm+tool+F-250
 https://www.ford-trucks.com/forums/159227-cant-find-a-big-enough-pitman-arm-puller.html  
 https://www.ford-trucks.com/forums/995700-pitman-arm-removal-on-78f250-4x4.html
 
-# Jaw Spread: 3-1/4"
-## OTC tools 6497
+# Size:
+## Jaw Spread: 3-1/4"
+### OTC tools 6497
 Guide: [BEST Pitman arm puller you can buy for F250 F350 Excursion](https://youtu.be/BjFsU5dxOUk)
 
 https://www.otctools.com/products/super-duty-pitman-arm-puller
 
-## Supply:
-80.15 https://www.tooldiscounter.com/product/otc-super-duty-pitman-arm-puller-otc6497
-136.80 https://www.amazon.com/dp/B0014DDIJC
+Supply:
+- 80.15 https://www.tooldiscounter.com/product/otc-super-duty-pitman-arm-puller-otc6497
+- 136.80 https://www.amazon.com/dp/B0014DDIJC
+- Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/mechanics-tools/pullers/pitman-arm-pullers/692e9db8fec4/otc-pitman-arm-puller/otc0/6497
 
-Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/mechanics-tools/pullers/pitman-arm-pullers/692e9db8fec4/otc-pitman-arm-puller/otc0/6497
-
-## OEM Tools 57170
+### OEM Tools 57170
 https://www.autozone.com/loan-a-tools/loaner-pitman-arm-puller/p/oemtools-heavy-duty-pitman-arm-puller/209523_0_0
+
+## Large
+### OTC 7310A
+Pitman Arm Puller for Medium and Heavy Trucks
+
+Supply:
+- 85.08 https://www.toolsource.com/pullers-and-pushers-c-194_621_623/pitman-arm-puller-f-medium-heavy-trucks-otc7310-p-61965.html
 
 # Blacklist
 > i tried to use it on my 1996 f 250 4/4 it's real wide the tabs that go under the pit-men arm just grab the edge so i broke one of the tabs off it's better to go to checker and rent one for free it was twenty dollars when you return it you get your money back or you can keep it
