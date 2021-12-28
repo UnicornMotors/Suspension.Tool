@@ -1,5 +1,8 @@
+Sch:  
+F-250 https://www.google.com/search?q=Pitman+arm+tool+F-250
+
 # Discussion
-F-250
+## F-250
 https://www.ford-trucks.com/forums/159227-cant-find-a-big-enough-pitman-arm-puller.html  
 https://www.ford-trucks.com/forums/995700-pitman-arm-removal-on-78f250-4x4.html
 
