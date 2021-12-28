@@ -17,3 +17,7 @@ Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/me
 > i tried to use it on my 1996 f 250 4/4 it's real wide the tabs that go under the pit-men arm just grab the edge so i broke one of the tabs off it's better to go to checker and rent one for free it was twenty dollars when you return it you get your money back or you can keep it
 By r cross on July 6, 2014
 - https://www.amazon.com/Lisle-41970-Heavy-Pitman-Puller/dp/B000ETWGKY
+
+
+# Kit
+https://www.harborfreight.com/front-end-service-tool-set-5-pc-56807.html
