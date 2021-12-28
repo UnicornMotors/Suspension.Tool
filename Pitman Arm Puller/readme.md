@@ -21,7 +21,12 @@ Supply:
 - Local Order: 99.99 https://www.oreillyauto.com/detail/c/otc/tools---equipment/mechanics-tools/pullers/pitman-arm-pullers/692e9db8fec4/otc-pitman-arm-puller/otc0/6497
 
 ### OEM Tools 57170
-https://www.autozone.com/loan-a-tools/loaner-pitman-arm-puller/p/oemtools-heavy-duty-pitman-arm-puller/209523_0_0
+Guide:
+- [The best pitman arm puller for cheap!](https://youtu.be/v0KRjQY56P8)
+
+Supply:
+- https://www.amazon.com/OEMTOOLS-27170-Heavy-Pitman-Puller/dp/B004FEPE80
+- https://www.autozone.com/loan-a-tools/loaner-pitman-arm-puller/p/oemtools-heavy-duty-pitman-arm-puller/209523_0_0
 
 ## Large
 ### OTC 7310A
